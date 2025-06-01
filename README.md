@@ -81,8 +81,10 @@ Próximamente subiré:
 
 ---
 
-## 📚 En qué estoy aprendiendo ahora
+## 📚 En qué estoy investigando y aprendiendo ahora
 
+- Arquitectura, diseño y funcionamiento de los Modelos IA LLM
+- Implementación de MCP Servers (Model context protocol), En Python y en C#
 - Explorando **.NET 8** y nuevas capacidades de **Blazor WebAssembly**
 - Mejorando despliegues con **Docker + Kubernetes**
 - Diseño visual y prototipado con **Figma** y **Framer**
